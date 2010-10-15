@@ -1,0 +1,8 @@
+# MultiCaptcha
+
+A php 5 class to generate random code and math captchas. Source code is commented, see `examples` folder inside package for some usage examples.
+
+examples/index.php - A simple captcha with all default settings.
+examples/index2.php - A captcha displayed with a random font.
+examples/index3.php - A simple math captcha.
+examples/index4.php - Another math captcha: only 2 operands with values between 1 - 20.
